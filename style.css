@@ -736,24 +736,3 @@ box-sizing: content-box;
 
 
 
-
-
-
-li{
-    float: left;
-    list-style: none;
-    padding: 10px;
-}
-nav{
-    margin-top: 60px;
-    margin-left: 600px;
-    
-}
-a
-{
-    text-decoration: none;
-}
-.Doctora1{
-    width: 150px;
-    
-}
